@@ -127,6 +127,18 @@ footer{
 @media (max-width: 768px) {
  
   #magazine {
-    height: 520vh;
+    height: 510vh;
+  }
+}
+
+
+#Family{
+
+  height: 125vh;
+}
+@media (max-width: 768px) {
+  #Family {
+    background-size: contain;
+    height: 50vh;
   }
 }
